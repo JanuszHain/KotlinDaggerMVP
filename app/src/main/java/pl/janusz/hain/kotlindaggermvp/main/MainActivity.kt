@@ -1,7 +1,8 @@
-package pl.janusz.hain.kotlindaggermvp
+package pl.janusz.hain.kotlindaggermvp.main
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import pl.janusz.hain.kotlindaggermvp.R
 
 class MainActivity : AppCompatActivity() {
 
